@@ -15,7 +15,7 @@
 		92AFF2D52B912AA00005B8C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AFF2D42B912AA00005B8C4 /* ContentView.swift */; };
 		92AFF2D72B912AA20005B8C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92AFF2D62B912AA20005B8C4 /* Assets.xcassets */; };
 		92AFF2DA2B912AA20005B8C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92AFF2D92B912AA20005B8C4 /* Preview Assets.xcassets */; };
-		92AFF2E12B9136010005B8C4 /* ContentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AFF2E02B9136010005B8C4 /* ContentModel.swift */; };
+		92AFF2E12B9136010005B8C4 /* ContentModel + RowModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92AFF2E02B9136010005B8C4 /* ContentModel + RowModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +28,7 @@
 		92AFF2D42B912AA00005B8C4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		92AFF2D62B912AA20005B8C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92AFF2D92B912AA20005B8C4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		92AFF2E02B9136010005B8C4 /* ContentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModel.swift; sourceTree = "<group>"; };
+		92AFF2E02B9136010005B8C4 /* ContentModel + RowModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentModel + RowModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 				92AFF2D42B912AA00005B8C4 /* ContentView.swift */,
 				921A43922B9528100027454C /* View + DelaysTouches.swift */,
 				921A438E2B95275B0027454C /* Timer.swift */,
-				92AFF2E02B9136010005B8C4 /* ContentModel.swift */,
+				92AFF2E02B9136010005B8C4 /* ContentModel + RowModel.swift */,
 				921A43942B95342E0027454C /* ModelMaker.swift */,
 				92AFF2D62B912AA20005B8C4 /* Assets.xcassets */,
 				92AFF2D82B912AA20005B8C4 /* Preview Content */,
@@ -157,7 +157,7 @@
 				921A43912B9527890027454C /* Randomizer.swift in Sources */,
 				921A43932B9528100027454C /* View + DelaysTouches.swift in Sources */,
 				92AFF2D32B912AA00005B8C4 /* SampleApp.swift in Sources */,
-				92AFF2E12B9136010005B8C4 /* ContentModel.swift in Sources */,
+				92AFF2E12B9136010005B8C4 /* ContentModel + RowModel.swift in Sources */,
 				921A438F2B95275B0027454C /* Timer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

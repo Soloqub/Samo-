@@ -23,7 +23,6 @@ final class ContentModel: ObservableObject {
                 rowModels.forEach { rowModel in
                     rowModel.receiveTick()
                 }
-                print()
             }
         }
     }
